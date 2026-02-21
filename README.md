@@ -1,5 +1,5 @@
 <h1 align="center"> Hola I'm Sam Tenoria</h1>
-<h3 align="center">Baddie but sometimes good Girl</h3>
+<h3 align="center">221</h3>
 
 - 🔭 I’m an IT student 
 
