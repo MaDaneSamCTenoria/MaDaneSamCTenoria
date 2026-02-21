@@ -1,11 +1,11 @@
 <h1 align="center"> Hola I'm Sam Tenoria</h1>
 <h3 align="center">Baddie</h3>
 
-- 🔭 I’m an IT student **I'm IT student**
+- 🔭 I’m an IT student 
 
 - 🌱 I’m still learning about **my course and want to improve it**
 
-- 👯 I want to collaborate in Minecraft **I want to collaborate in Minecraft**
+- 👯 I want to collaborate in Minecraft 
 
 - 📫 How to reach me **samtenoria1706@gmail.com**
 
