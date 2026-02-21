@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ma. Dane Sam C. Tenoria</h1>
-<h3 align="center">Minecraft player, loves java rice but not java language</h3>
+<h1 align="center">Hola I'm Sam Tenoria</h1>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
